@@ -63,10 +63,10 @@ a {
     margin-bottom: 15px;
 }
 
-.about-left button {
+.about-left .btn-signup {
     background-color: #3882f6;
     color: #f9faf8;
-    padding: 5px 30px;
+    padding: 2px 20px;
     border: solid 1px #3882f6;
     border-radius: 5px;
     font-weight: 700;
@@ -158,7 +158,7 @@ a {
     line-height: 23px;
 }
 
-.right-side button {
+.right-side .btn-signup {
     color: #f9faf8;
     background-color: #3882f6;
     border: 2px solid #f9faf8;
